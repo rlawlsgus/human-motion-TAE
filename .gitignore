@@ -208,3 +208,6 @@ __marimo__/
 
 HumanAct12Poses/
 *.gz
+
+# Models
+*.pth
